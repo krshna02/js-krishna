@@ -1,4 +1,4 @@
-//arrays
+ //arrays
 const heros=["ironman","captian","bheem"]
 //object
 let  myobj={name:
@@ -11,3 +11,4 @@ const myFunc= function (){
 }
 console.log(myFunc);
 console.log(typeof myFunc)
+ 
