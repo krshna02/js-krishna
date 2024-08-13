@@ -1,0 +1,9 @@
+JavaScript execution code
+ ##########
+{}= there are mainly 2 types of execution context
+a. Global Execution Context
+b. Function Execution Context
+c. Eval Execution Context
+ {}-2 types of context phase
+Memory phase-valuea are stored in this phase(by default undefined)
+Execution phase-calculation(New Variable Environment+Execution Thread) 
