@@ -1,7 +1,7 @@
 //Immediately Invoked Function Expressions(IIFE)-we use this to removw global scope problems
  // syntax of iife -- ()() ,example-chai()
 (function chai(){
-    // named iife it has a name chai
+    // named iife it has a name chai04
     username="krihsa"
     console.log(`db connnected`);
     

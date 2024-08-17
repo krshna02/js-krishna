@@ -23,10 +23,10 @@ for (let i = 0; i <=5; i++) {
 }
 //table from 1 to 5
 for (let i = 1; i <=5; i++) {
-    //console.log(`table of ${i}`);
+     console.log(`table of ${i}`);
     for (let j = 1; j <=10; j++){
-       // console.log(i+"*"+j +'=' + i*j);
-        //console.log(`${i}*${j}=${i*j}`);
+       //console.log(i+"*"+j +'=' + i*j);
+        console.log(`${i}*${j}=${i*j}`);
         
        
     }
